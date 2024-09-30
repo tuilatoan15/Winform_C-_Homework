@@ -1,0 +1,32 @@
+C:\Users\Toan\source\repos\DinhDang\bin\Debug\net8.0-windows\DinhDang.exe
+C:\Users\Toan\source\repos\DinhDang\bin\Debug\net8.0-windows\DinhDang.deps.json
+C:\Users\Toan\source\repos\DinhDang\bin\Debug\net8.0-windows\DinhDang.runtimeconfig.json
+C:\Users\Toan\source\repos\DinhDang\bin\Debug\net8.0-windows\DinhDang.dll
+C:\Users\Toan\source\repos\DinhDang\bin\Debug\net8.0-windows\DinhDang.pdb
+C:\Users\Toan\source\repos\DinhDang\obj\Debug\net8.0-windows\DinhDang.Form1.resources
+C:\Users\Toan\source\repos\DinhDang\obj\Debug\net8.0-windows\DinhDang.csproj.GenerateResource.cache
+C:\Users\Toan\source\repos\DinhDang\obj\Debug\net8.0-windows\DinhDang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\source\repos\DinhDang\obj\Debug\net8.0-windows\DinhDang.AssemblyInfoInputs.cache
+C:\Users\Toan\source\repos\DinhDang\obj\Debug\net8.0-windows\DinhDang.AssemblyInfo.cs
+C:\Users\Toan\source\repos\DinhDang\obj\Debug\net8.0-windows\DinhDang.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\DinhDang\obj\Debug\net8.0-windows\DinhDang.dll
+C:\Users\Toan\source\repos\DinhDang\obj\Debug\net8.0-windows\refint\DinhDang.dll
+C:\Users\Toan\source\repos\DinhDang\obj\Debug\net8.0-windows\DinhDang.pdb
+C:\Users\Toan\source\repos\DinhDang\obj\Debug\net8.0-windows\DinhDang.genruntimeconfig.cache
+C:\Users\Toan\source\repos\DinhDang\obj\Debug\net8.0-windows\ref\DinhDang.dll
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\bin\Debug\net8.0-windows\DinhDang.exe
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\bin\Debug\net8.0-windows\DinhDang.deps.json
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\bin\Debug\net8.0-windows\DinhDang.runtimeconfig.json
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\bin\Debug\net8.0-windows\DinhDang.dll
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\bin\Debug\net8.0-windows\DinhDang.pdb
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\obj\Debug\net8.0-windows\DinhDang.Form1.resources
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\obj\Debug\net8.0-windows\DinhDang.csproj.GenerateResource.cache
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\obj\Debug\net8.0-windows\DinhDang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\obj\Debug\net8.0-windows\DinhDang.AssemblyInfoInputs.cache
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\obj\Debug\net8.0-windows\DinhDang.AssemblyInfo.cs
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\obj\Debug\net8.0-windows\DinhDang.csproj.CoreCompileInputs.cache
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\obj\Debug\net8.0-windows\DinhDang.dll
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\obj\Debug\net8.0-windows\refint\DinhDang.dll
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\obj\Debug\net8.0-windows\DinhDang.pdb
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\obj\Debug\net8.0-windows\DinhDang.genruntimeconfig.cache
+C:\Users\Toan\OneDrive\Máy tính\6351071071_Nguyễn Hữu Toàn\DinhDang\obj\Debug\net8.0-windows\ref\DinhDang.dll
